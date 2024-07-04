@@ -1,0 +1,413 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif; /* Example: Use your preferred font */
+}
+
+.content {
+    overflow: hidden;
+}
+
+img {
+    float: right;
+    margin-top: -5px;
+    margin-right: -25px;
+    width: 10%;     
+}
+
+h1 {
+    margin-top: 150px;
+    background-color: #a700fe;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    margin-left: 40%;
+    border-radius: 10px;
+    border: 1px black;
+    text-align: center;
+}
+h3{
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 32px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: #a700fe;
+}
+.cont{
+    overflow: hidden;
+
+}
+.cont h2{
+    margin-top: -5px;
+    text-align: center;
+    font-size: 40px;
+    color: #080808; 
+}
+.cont h1{
+    margin-top: 0%;
+    background-color: #a700fe;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    margin-left: 33%;
+    border-radius: 10px;
+    border: 1px black;
+    text-align: center;
+}
+
+.cont img {
+    margin-top: 2%;
+    margin-right: 65%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.cont #src {
+    margin-top: -9.9%;
+    margin-right: 27%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.cont h3{
+    margin-top: 12.5%;
+    text-align: center;
+    margin-right: 44%;
+    font-size: 15px;
+}
+.cont #h3{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: -32%;
+    font-size: 15px;
+}
+.class{
+    overflow: hidden;
+
+}
+.class img {
+    margin-top: 2%;
+    margin-right: 75%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.class #src {
+    margin-top: -9.9%;
+    margin-right: 45%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.class #alt {
+    margin-top: -9.9%;
+    margin-right: 15%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.class h3{
+    margin-top: 12.5%;
+    text-align: center;
+    margin-right: 64%;
+    font-size: 15px;
+}
+.class #h3{
+    margin-top: -4.5%;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 15px;
+}
+.class #h2{
+    margin-top: -4.5%;
+    text-align: center;
+    margin-right: -56.5%;
+    font-size: 15px;
+}
+.development {
+    overflow: hidden;
+}
+
+.development img {
+    float: left;
+    margin-left: -25px;
+    margin-top: 3%;
+    width: 10%;
+}
+
+.development h1 {
+    margin-top: 4%;
+    background-color: #a700fe;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    width: 20%;
+    margin-left: 32%;
+}
+.image{
+    overflow: hidden;
+}
+.image #tsc {
+    margin-top: 1%;
+    margin-right: 86%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.image #src {
+    margin-top: -9.9%;
+    margin-right: 59%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.image #alt {
+    margin-top: -9.9%;
+    margin-right: 31%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.image #all {
+    margin-top: -9.9%;
+    margin-right: 5%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.image h3{
+    margin-top: 11.5%;
+    text-align: center;
+    margin-right: 86%;
+    font-size: 15px;
+}
+.image #h1{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: 32%;
+    font-size: 15px;
+}
+.image #h2{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: -24%;
+    font-size: 15px;
+}
+.image #h3{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: -76%;
+    font-size: 15px;
+}
+.image1{
+    overflow: hidden;
+}
+.image1 img{
+    margin-top: 1%;
+    margin-right: 75%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    
+}
+.image1 #src{
+    margin-top: -9.9%;
+    margin-right: 45%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    
+}
+.image1 #alt{
+    margin-top: -9.9%;
+    margin-right: 15%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    
+}
+.image1 h3{
+    margin-top: 11.5%;
+    text-align: center;
+    margin-right: 64%;
+    font-size: 15px;
+}
+.image1 #h1{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: 4%;
+    font-size: 15px;
+}
+.image1 #h2{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: -57%;
+    font-size: 15px;
+}
+.sales {
+    overflow: hidden;
+}
+
+.sales img {
+    float: left;
+    margin-left: -25px;
+    margin-top: 3%;
+    width: 10%;
+}
+
+.sales h1 {
+    margin-top: 4%;
+    background-color: #a700fe;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    width: 25%;
+    margin-left: 30%;
+}
+.market{
+    overflow: hidden;
+}
+.market #tsc {
+    margin-top: 1%;
+    margin-right: 86%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.market #src {
+    margin-top: -9.9%;
+    margin-right: 59%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.market #alt {
+    margin-top: -9.9%;
+    margin-right: 31%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.market #all {
+    margin-top: -9.9%;
+    margin-right: 5%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.market h3{
+    margin-top: 11.5%;
+    text-align: center;
+    margin-right: 86%;
+    font-size: 15px;
+}
+.market #h1{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: 32%;
+    font-size: 15px;
+}
+.market #h2{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: -24%;
+    font-size: 15px;
+}
+.market #h3{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: -76%;
+    font-size: 15px;
+}
+.marker{
+    overflow: hidden;
+}
+.marker img{
+    margin-top: 1%;
+    margin-right: 75%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    
+}
+.marker #src{
+    margin-top: -9.9%;
+    margin-right: 45%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    
+}
+.marker #alt{
+    margin-top: -9.9%;
+    margin-right: 15%;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    
+}
+.marker h3{
+    margin-top: 11.5%;
+    text-align: center;
+    margin-right: 64%;
+    font-size: 15px;
+}
+.marker #h1{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: 4%;
+    font-size: 15px;
+}
+.marker #h2{
+    margin-top: -3.3%;
+    text-align: center;
+    margin-right: -57%;
+    font-size: 15px;
+}
+#im{
+    width: 10%;
+    float: left;
+    margin-left: -25px;
+    margin-top: 10px;
+}
